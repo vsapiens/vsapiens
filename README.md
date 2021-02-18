@@ -2,6 +2,7 @@
 
 - 🔭 Software Engineer @[Kodda](http://kodda.mx/) (Launching soon!)
 - 🌱 Developing Web with ReactJs ⚛️!
+- 🔥 Working as backend developer with NodeJs!
 - 🌱 I’m currently learning Computer vision
 - 💬 Ask me about Software Engineering
 - 🦆 How to reach me: you can send me a tweet [here](https://twitter.com/eriqfrank), or a message directly to my [LinkedIn](https://www.linkedin.com/in/erick-gonz%C3%A1lez-mart%C3%ADnez-553579153/).
