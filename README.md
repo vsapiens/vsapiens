@@ -1,11 +1,11 @@
 ### Welcome 👋
 
-- 🔭 Software Engineer @[Globant](https://www.globant.com/es)
-- 🌱 Working with observability stack !
+- 🔭 Software Engineer @[Sailpoint](https://www.globant.com/es)
+- 🌱 Working with the latest backend stack!
 - 🔥 Working as Performance Engineer and Analytics!
-- 📷 I’m currently learning Backend Engineering in Golang
-- 💬 Ask me about Software Engineering
-- 🦆 How to reach me: you can send me a tweet [here](https://twitter.com/eriqfrank), or a message directly to my [LinkedIn](https://www.linkedin.com/in/erick-gonz%C3%A1lez-mart%C3%ADnez-553579153/).
+- 📷 I’m currently learning Langchain and working with LLMs to generate data modeling.
+- 💬 Ask me about Software Engineering and Performance Engineering
+- 🦆 How to reach me: you can message me directly to my [LinkedIn](https://www.linkedin.com/in/erickfgonzalez/).
 
 If you have any questions about my projects, feel free to reach out!
 
