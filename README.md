@@ -69,7 +69,7 @@ I'm a Software Engineer who landed in Performance Engineering — and never look
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erick%20González-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vsapiens/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erick%20González-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickfgonzalez/)
 
 </div>
 
