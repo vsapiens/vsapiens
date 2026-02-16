@@ -34,14 +34,14 @@ I'm a Software Engineer who landed in Performance Engineering — and never look
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickfgonzalez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickfgonzalez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vsapiens&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsapiens&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=erickfgonzalez&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=vsapiens&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
 </div>
 
@@ -69,7 +69,7 @@ I'm a Software Engineer who landed in Performance Engineering — and never look
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erick%20González-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickfgonzalez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erick%20González-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vsapiens/)
 
 </div>
 
